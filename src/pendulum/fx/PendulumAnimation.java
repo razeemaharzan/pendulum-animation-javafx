@@ -17,7 +17,7 @@ import javafx.util.Duration;
 
 /**
  *
- * @author Narayan G. Maharjan &lt;me@ngopal.com.np&gt;
+ * @author Razeemaharzan
  */
 public class PendulumAnimation extends Application {
     @Override
